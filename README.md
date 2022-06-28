@@ -1,6 +1,6 @@
 # **Hi there**👋
  - I am currently learning Front End Web Development
- - Languages I use:
+ - I am familiar with:
    - HTML
    - CSS
    - JS
