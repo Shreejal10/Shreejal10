@@ -1,2 +1,6 @@
 # **Hi there**👋
- - I am currenlty learning Front End Web Development
+ - I am currently learning Front End Web Development
+ - Languages I use:
+                  - HTML
+                  - CSS
+                  - JS
