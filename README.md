@@ -1,5 +1,5 @@
-# <h1>Hi there</h1>👋
- - I am currently learning Front End Web Development
+# **Hi there**👋
+ - <h3>I am currently learning Front End Web Development
  - I am familiar with:
    - Languages:
         - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -11,6 +11,7 @@
         - ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
         - ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  </br>
+ </h3>
  <h1>Connect With Me</h1>
  <a href="https://www.facebook.com/Shreejal.Dhungana10" target="_blank">
              <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="">
@@ -20,4 +21,6 @@
  </a>
        
           
+
+    
 
