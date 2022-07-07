@@ -1,4 +1,4 @@
-# **Hi there**👋
+# <h1>Hi there</h1>👋
  - I am currently learning Front End Web Development
  - I am familiar with:
    - Languages:
